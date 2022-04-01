@@ -26,7 +26,7 @@ SECRET_KEY = 'cz(%*$q+*md_4ryg*#^_97m(8-p%)@)#pqm%iye*v@^+(hsl#4'
 DEBUG = True
 
 ALLOWED_HOSTS = ['127.0.0.1',
-
+                 'fake-true-news.herokuapp.com',
                  ]
 
 
