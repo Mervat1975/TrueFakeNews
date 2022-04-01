@@ -1,0 +1,1 @@
+web: gunicorn newsdetect.wsgi:application --log-file -
